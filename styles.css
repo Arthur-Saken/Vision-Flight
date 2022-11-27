@@ -140,8 +140,8 @@ p {
   position: absolute;
   right: 0;
   bottom: 0;
-  z-index: -1;
-  box-shadow: 25px 25px 50px 0 white inset, -25px -25px 50px 0 white inset;
+  /* z-index: -1; */
+  /* box-shadow: 25px 25px 50px 0 white inset, -25px -25px 50px 0 white inset; */
 }
 
 body {
